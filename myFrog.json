@@ -1,0 +1,563 @@
+{
+	"primitives": [
+		[
+			"pEllipsoid",
+			"Vector3( 1.99929, 1.97652, 1.28 )"
+		],
+		[
+			"pEllipsoid",
+			"Vector3( 0.625824, 0.357147, 0.8914 )"
+		],
+		[
+			"pEllipsoid",
+			"Vector3( 1.33164, 1.29976, 0.572888 )"
+		],
+		[
+			"pEllipsoid",
+			"Vector3( 0.4139, 0.357147, 0.66314 )"
+		],
+		[
+			"pEllipsoid",
+			"Vector3( 0.39685, 0.357147, 0.507432 )"
+		],
+		[
+			"pEllipsoid",
+			"Vector3( 1.72792, 1.4785, 2.16554 )"
+		],
+		[
+			"pCapsule",
+			0.147221,
+			1.21
+		],
+		[
+			"pCapsule",
+			0.47,
+			0.319634
+		],
+		[
+			"pCapsule",
+			0.383695,
+			1.444452
+		],
+		[
+			"pCapsule",
+			0.383695,
+			1.6905
+		],
+		[
+			"pCapsule",
+			0.15,
+			0.93
+		],
+		[
+			"pCapsule",
+			0.15,
+			0.93
+		],
+		[
+			"pCapsule",
+			0.15,
+			0.93
+		],
+		[
+			"pCapsule",
+			0.147221,
+			1.13
+		],
+		[
+			"pCapsule",
+			0.477884,
+			0.319634
+		],
+		[
+			"pCapsule",
+			0.383695,
+			1.444452
+		],
+		[
+			"pCapsule",
+			0.383695,
+			1.6905
+		],
+		[
+			"pCapsule",
+			0.15,
+			1
+		],
+		[
+			"pCapsule",
+			0.15,
+			0.93
+		],
+		[
+			"pCapsule",
+			0.15,
+			0.93
+		]
+	],
+	"modifiers": [
+		[
+			"mRotation",
+			[
+				[
+					"mTranslation",
+					[
+						[
+							"mRotation",
+							[
+								[
+									"ref",
+									0
+								],
+								[
+									"mMirror",
+									[
+										[
+											"mRotation",
+											[
+												[
+													"mTranslation",
+													[
+														[
+															"mRotation",
+															[
+																[
+																	"ref",
+																	9
+																],
+																[
+																	"mTranslation",
+																	[
+																		[
+																			"mRotation",
+																			[
+																				[
+																					"ref",
+																					8
+																				],
+																				[
+																					"mTranslation",
+																					[
+																						[
+																							"mRotation",
+																							[
+																								[
+																									"ref",
+																									7
+																								],
+																								[
+																									"mTranslation",
+																									[
+																										[
+																											"mRotation",
+																											[
+																												[
+																													"ref",
+																													6
+																												]
+																											],
+																											"Vector3( 0, 0, 0 )"
+																										]
+																									],
+																									"Vector3( 0, 0.73, 0 )"
+																								],
+																								[
+																									"mTranslation",
+																									[
+																										[
+																											"mRotation",
+																											[
+																												[
+																													"ref",
+																													10
+																												]
+																											],
+																											"Vector3( 0, 0, 30 )"
+																										]
+																									],
+																									"Vector3( -0.25, 0.82, 0 )"
+																								],
+																								[
+																									"mTranslation",
+																									[
+																										[
+																											"mRotation",
+																											[
+																												[
+																													"ref",
+																													12
+																												]
+																											],
+																											"Vector3( 0, 0, -20 )"
+																										]
+																									],
+																									"Vector3( 0.28, 0.59, 0 )"
+																								],
+																								[
+																									"mTranslation",
+																									[
+																										[
+																											"mRotation",
+																											[
+																												[
+																													"ref",
+																													11
+																												]
+																											],
+																											"Vector3( 0, 0, -49.29 )"
+																										]
+																									],
+																									"Vector3( 0.13, 0.03, 0 )"
+																								]
+																							],
+																							"Vector3( 0, 0, 0 )"
+																						]
+																					],
+																					"Vector3( 0, 1.83, 0 )"
+																				]
+																			],
+																			"Vector3( 0, 0, -30 )"
+																		]
+																	],
+																	"Vector3( 0, 2.03, 0 )"
+																]
+															],
+															"Vector3( 0, 0, -90 )"
+														]
+													],
+													"Vector3( 1.67, 2.32, 0 )"
+												]
+											],
+											"Vector3( -90, 0, 0 )"
+										],
+										[
+											"mRotation",
+											[
+												[
+													"mTranslation",
+													[
+														[
+															"mRotation",
+															[
+																[
+																	"ref",
+																	16
+																],
+																[
+																	"mTranslation",
+																	[
+																		[
+																			"mRotation",
+																			[
+																				[
+																					"ref",
+																					15
+																				],
+																				[
+																					"mTranslation",
+																					[
+																						[
+																							"mRotation",
+																							[
+																								[
+																									"ref",
+																									14
+																								],
+																								[
+																									"mTranslation",
+																									[
+																										[
+																											"mRotation",
+																											[
+																												[
+																													"ref",
+																													13
+																												]
+																											],
+																											"Vector3( -40, 0, 0 )"
+																										]
+																									],
+																									"Vector3( 0, 0.53, 0 )"
+																								],
+																								[
+																									"mTranslation",
+																									[
+																										[
+																											"mRotation",
+																											[
+																												[
+																													"ref",
+																													17
+																												]
+																											],
+																											"Vector3( -20, 0, -30 )"
+																										]
+																									],
+																									"Vector3( 0.09, 0.51, 0 )"
+																								],
+																								[
+																									"mTranslation",
+																									[
+																										[
+																											"mRotation",
+																											[
+																												[
+																													"ref",
+																													18
+																												]
+																											],
+																											"Vector3( -10, 0, -40 )"
+																										]
+																									],
+																									"Vector3( 0.32, 0.31, 0 )"
+																								],
+																								[
+																									"mTranslation",
+																									[
+																										[
+																											"mRotation",
+																											[
+																												[
+																													"ref",
+																													19
+																												]
+																											],
+																											"Vector3( 0, 0, 59.61 )"
+																										]
+																									],
+																									"Vector3( 0.19, 0.49, 0 )"
+																								]
+																							],
+																							"Vector3( 0, 0, 0 )"
+																						]
+																					],
+																					"Vector3( 0, 1.99, 0 )"
+																				]
+																			],
+																			"Vector3( 0, 0, 0 )"
+																		]
+																	],
+																	"Vector3( 0, 2.2, 0 )"
+																]
+															],
+															"Vector3( 0, 0, -20 )"
+														]
+													],
+													"Vector3( 0.82, 4.86, 0 )"
+												]
+											],
+											"Vector3( -90, 0, 0 )"
+										]
+									],
+									"Vector3( -1, 0, 0 )",
+									0
+								]
+							],
+							"Vector3( 0, 0, 0 )"
+						]
+					],
+					"Vector3( 0, 0.493172, 3.01572 )"
+				],
+				[
+					"mMirror",
+					[
+						[
+							"mTranslation",
+							[
+								[
+									"mRotation",
+									[
+										[
+											"ref",
+											1
+										]
+									],
+									"Vector3( 0, 0, 0 )"
+								]
+							],
+							"Vector3( 1.23772, 0.467108, 4.0436 )"
+						]
+					],
+					"Vector3( -1, 0, 0 )",
+					0
+				],
+				[
+					"mTranslation",
+					[
+						[
+							"mRotation",
+							[
+								[
+									"ref",
+									2
+								]
+							],
+							"Vector3( 0, 0, 0 )"
+						]
+					],
+					"Vector3( 0, -0.876456, 3.01572 )"
+				],
+				[
+					"mMirror",
+					[
+						[
+							"mTranslation",
+							[
+								[
+									"mRotation",
+									[
+										[
+											"ref",
+											3
+										]
+									],
+									"Vector3( 0, 0, 0 )"
+								]
+							],
+							"Vector3( 1.186, 0.2179, 4.0436 )"
+						]
+					],
+					"Vector3( -1, 0, 0 )",
+					0
+				],
+				[
+					"mMirror",
+					[
+						[
+							"mTranslation",
+							[
+								[
+									"mRotation",
+									[
+										[
+											"ref",
+											4
+										]
+									],
+									"Vector3( 0, 0, 0 )"
+								]
+							],
+							"Vector3( 1.23772, 0.467108, 4.0436 )"
+						]
+					],
+					"Vector3( -1, 0, 0 )",
+					0
+				],
+				[
+					"mTranslation",
+					[
+						[
+							"mRotation",
+							[
+								[
+									"ref",
+									5
+								]
+							],
+							"Vector3( 0, 0, 0 )"
+						]
+					],
+					"Vector3( 0, 0.951508, 0.0550404 )"
+				]
+			],
+			"Vector3( -90, 0, 0 )"
+		]
+	],
+	"operator_tree": [
+		"oUnion",
+		[
+			[
+				"oSmoothSubtraction",
+				[
+					[
+						"ref",
+						0
+					],
+					[
+						"ref",
+						2
+					]
+				],
+				0.05
+			],
+			[
+				"oSmoothSubtraction",
+				[
+					[
+						"ref",
+						1
+					],
+					[
+						"ref",
+						3
+					]
+				],
+				0.05
+			],
+			[
+				"ref",
+				4
+			],
+			[
+				"ref",
+				5
+			],
+			[
+				"ref",
+				6
+			],
+			[
+				"ref",
+				7
+			],
+			[
+				"ref",
+				8
+			],
+			[
+				"ref",
+				9
+			],
+			[
+				"ref",
+				10
+			],
+			[
+				"ref",
+				11
+			],
+			[
+				"ref",
+				12
+			],
+			[
+				"ref",
+				13
+			],
+			[
+				"ref",
+				14
+			],
+			[
+				"ref",
+				15
+			],
+			[
+				"ref",
+				16
+			],
+			[
+				"ref",
+				17
+			],
+			[
+				"ref",
+				18
+			],
+			[
+				"ref",
+				19
+			]
+		]
+	]
+}
